@@ -25,7 +25,7 @@
 
 <br>
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=als95&theme=onedark&title=MultiLanguage,PullRequest,Commits,Issues,Repositories" />
+  <img src="https://streak-stats.demolab.com?user=als95&theme=dark&hide_border=true" />
 </div>
 <div>
   <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=als95&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" />
