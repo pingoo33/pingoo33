@@ -28,6 +28,6 @@
   <img src="https://streak-stats.demolab.com?user=als95&theme=dark&hide_border=true" />
 </div>
 <div>
-  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=als95&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" />
+  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=als95&count_private=true&show=reviews&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=als95&layout=compact&theme=dark&hide_border=true" />
 </div>
