@@ -1,6 +1,6 @@
 ## ❄️🐧
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fals95%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpingoo33%2Fhit-counter&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Skills
 <div>
@@ -26,9 +26,9 @@
 
 <br>
 <div>
-  <img src="https://streak-stats.demolab.com?user=als95&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=pingoo33&theme=dark&hide_border=true" />
 </div>
 <div>
-  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=als95&count_private=true&show=reviews&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=als95&layout=compact&theme=dark&hide_border=true" />
+  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=pingoo33&count_private=true&show=reviews&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingoo33&layout=compact&theme=dark&hide_border=true" />
 </div>
